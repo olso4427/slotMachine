@@ -1,4 +1,3 @@
-SLOT MACHINE
 print("Welcome to the Slot Machine!")
 numberOfTimes = input('How many times do you want to play?')
 slotsPossible = ["bar","bar","bar","cherry","crown"]
